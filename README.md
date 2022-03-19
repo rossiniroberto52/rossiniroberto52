@@ -1,5 +1,5 @@
-### Olá👋, meu nome é Rossini, e é um prazer te conhecer
-### essas aqui são as minhas informações!!:
+### Olá👋, meu nome é Rossini, e é um prazer te conhecer/hi my name is Rossini, nice to meet you
+### essas aqui são as minhas informações! / these are my infos.:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rossiniroberto52&show_icons=true&theme=tokyonight) <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossiniroberto52&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
