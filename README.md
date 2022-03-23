@@ -6,5 +6,4 @@
 
 ![snake gif](https://github.com/rossiniroberto52/rossiniroberto52/blob/output/github-contribution-grid-snake.svg)
 
-age:15y
 contact me: rossiniroberto52@gmail.com
