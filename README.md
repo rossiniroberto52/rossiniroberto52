@@ -3,6 +3,6 @@
 
 ![snake gif](https://github.com/rossiniroberto52/rossiniroberto52/blob/output/github-contribution-grid-snake.svg)
 
-contact me: 
-email: rossiniroberto52@gmail.com
+contact me:<br/>
+email: rossiniroberto52@gmail.com<br/>
 phone number: +55 81 95218803
