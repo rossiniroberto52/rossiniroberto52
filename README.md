@@ -1,5 +1,11 @@
 ### Olá👋, meu nome é Rossini, e é um prazer te conhecer / hi👋, my name is Rossini, nice to meet you!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rossiniroberto52&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
+
+<h2 align="center"> 📈 My metrics on Github 📉 </h2>
+<p align="center">
+  <a href="https://github.com/rossiniroberto52">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rossiniroberto52&theme=dracula&card_width=500&langs_count=10&custom_title=rossiniroberto52" />
+  </a>
+</p>
 
 ![snake gif](https://github.com/rossiniroberto52/rossiniroberto52/blob/output/github-contribution-grid-snake.svg)
 
