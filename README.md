@@ -9,7 +9,6 @@
 <br\>
 contact me:<br/>
 email: rossiniroberto52@gmail.com<br/>
-phone number: +55 81 95218803<br/>
 portfolio: https://my-port-nu.vercel.app <br/>
 
 minha história:
