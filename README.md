@@ -10,7 +10,3 @@
 contact me:<br/>
 email: rossiniroberto52@gmail.com<br/>
 portfolio: https://my-port-nu.vercel.app <br/>
-
-minha história:
-eu comecei na área de desenvolvimento de software com 8 anos de idade quando tive um certo interesse em eletrônica e tive de aprender um pouco de código, nisso eu me apaixonei pela área, hoje eu programo em c#(C-Sharp) e python. neste momento estou no terceiro ano do médio
-
