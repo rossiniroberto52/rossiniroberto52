@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **COLLEGE**
 
-- 🌱 I’m currently learning **C, C++, ruby**
+- 🌱 I’m currently learning **C, C++, C# and Java**
 
 - 👨‍💻 All of my projects are available at [https://my-port-nu.vercel.app](https://my-port-nu.vercel.app)
 
