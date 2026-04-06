@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rossiniroberto52&label=Profile%20views&color=0e75b6&style=flat" alt="rossiniroberto52" /> </p>
 
-- 🔭 I’m currently working on **COLLEGE**
+- 🔭 I’m currently working on **EJ UNICAP**
 
 - 🌱 I’m currently learning **C, C++, C# and Java**
 
-- 👨‍💻 All of my projects are available at [https://my-port-nu.vercel.app](https://my-port-nu.vercel.app)
+- 👨‍💻 All of my projects are available at [my portifolio](
+port-rossini-roberto.vercel.app/ )
 
 - 💬 Ask me about **c#, python, java ...**
 
