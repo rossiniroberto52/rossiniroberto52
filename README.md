@@ -13,6 +13,11 @@
   para rodar com estabilidade e o mínimo de atrito.
 </p>
 
+<p align="center">
+  🤖 Uso ferramentas de IA e agentes (Claude Code, OpenCode e afins) no dia a dia de desenvolvimento —<br/>
+  desde prototipagem até automação de tarefas repetitivas.
+</p>
+
 <br/>
 
 <div align="center">
@@ -62,6 +67,16 @@
 <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=for-the-badge" height="45" alt="latex" />
 <img width="10" />
 <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="45" alt="jetbrains" />
+
+<br/><br/>
+
+**AI Tools & Agents**
+<br/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=for-the-badge" height="45" alt="claude code" />
+<img width="10" />
+<img src="https://img.shields.io/badge/OpenCode-000000?logo=terminal&logoColor=white&style=for-the-badge" height="45" alt="opencode" />
+<img width="10" />
+<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" height="45" alt="ollama" />
 
 </div>
 
