@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="808" height="557" viewBox="0 0 808 557">
+<defs>
+<filter id="crtGlow" x="-30%" y="-30%" width="160%" height="160%">
+<feGaussianBlur stdDeviation="0.55" result="b"/>
+<feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#39ff6a"><animate attributeName="stop-color" values="#39ff6a;#00ffc8;#39ff6a" dur="4s" repeatCount="indefinite"/></stop>
+<stop offset="50%" stop-color="#0d3b1f"><animate attributeName="stop-color" values="#0d3b1f;#0a2a17;#0d3b1f" dur="4s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#39ff6a"><animate attributeName="stop-color" values="#39ff6a;#00ffc8;#39ff6a" dur="4s" repeatCount="indefinite"/></stop>
+</linearGradient>
+</defs>
+<rect width="100%" height="100%" rx="10" fill="#04080a"/>
+<rect x="2" y="2" width="804" height="553" rx="10" fill="none" stroke="url(#borderGrad)" stroke-width="2"/>
+<rect x="2" y="2" width="804" height="34" rx="10" fill="#081210"/>
+<rect x="2" y="26" width="804" height="8" fill="#081210"/>
+<circle cx="22" cy="19.0" r="5" fill="#ff5f57"/>
+<circle cx="40" cy="19.0" r="5" fill="#febc2e"/>
+<circle cx="58" cy="19.0" r="5" fill="#28c840"/>
+<text x="404" y="23" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#1c8f3d">root@rossiniroberto52 ~ whoami</text>
+<g font-family="Consolas, Menlo, monospace" font-size="8.6" fill="#39ff6a" filter="url(#crtGlow)">
+<text x="22" y="66.0" xml:space="preserve">.................                          .........</text>
+<text x="22" y="76.2" xml:space="preserve">..........                                        ..</text>
+<text x="22" y="86.4" xml:space="preserve">......                                              </text>
+<text x="22" y="96.6" xml:space="preserve">..                                                  </text>
+<text x="22" y="106.8" xml:space="preserve">                                                    </text>
+<text x="22" y="117.0" xml:space="preserve">                                                    </text>
+<text x="22" y="127.2" xml:space="preserve">                      .-+*#**+=-.                   </text>
+<text x="22" y="137.4" xml:space="preserve">                   .+*%@@@@@@@@@#*-                 </text>
+<text x="22" y="147.6" xml:space="preserve">                  -%@@@@@@@@@@@@@@@+                </text>
+<text x="22" y="157.8" xml:space="preserve">                 .%@@@#+*%#=:::-+@@@=               </text>
+<text x="22" y="168.0" xml:space="preserve">                 +@@*=...:.    ..-%@*               </text>
+<text x="22" y="178.2" xml:space="preserve">                 *@*:....    .....*@-               </text>
+<text x="22" y="188.4" xml:space="preserve">                 -@+=+**#+::+#*++=:@-               </text>
+<text x="22" y="198.6" xml:space="preserve">                 =%-#%##*+. =+**+=.*=               </text>
+<text x="22" y="208.8" xml:space="preserve">                 =*::::..--::......=:               </text>
+<text x="22" y="219.0" xml:space="preserve">                 =#=-:..-**+=:...::-.               </text>
+<text x="22" y="229.2" xml:space="preserve">                 .-++-:-==-----:.:-.                </text>
+<text x="22" y="239.4" xml:space="preserve">                   :+=::----:...:-:                 </text>
+<text x="22" y="249.6" xml:space="preserve">                    =*+=-::..::--+:                 </text>
+<text x="22" y="259.8" xml:space="preserve">                   --+***++++++++: :.               </text>
+<text x="22" y="270.0" xml:space="preserve">                .:+#::-=+***+++-   .=:.             </text>
+<text x="22" y="280.2" xml:space="preserve">           .::-===+*-.:.:*@%@*.    .=+==-:..        </text>
+<text x="22" y="290.4" xml:space="preserve">     ..:-=====++====:  .-#@%*::.   -=-======--:..   </text>
+<text x="22" y="300.6" xml:space="preserve"> .--=+++++=====++=+-   . +@%.   .  -=--==-=======--:</text>
+<text x="22" y="310.8" xml:space="preserve">.++++========+====+-    .%#@+      =--------==----==</text>
+<text x="22" y="321.0" xml:space="preserve">+++===+=======+===+=    =##%#     .=---------==-----</text>
+<text x="22" y="331.2" xml:space="preserve">*=+++++=======+===+=    *##%+     :=------------====</text>
+<text x="22" y="341.4" xml:space="preserve">*++++++===========+=.   ##*%=     :-------------====</text>
+<text x="22" y="351.6" xml:space="preserve">++++++++===========+.  :%#*%-     -------------=====</text>
+<text x="22" y="361.8" xml:space="preserve">*++**#*+===========+-  =%###:    .-----------==+**++</text>
+<text x="22" y="372.0" xml:space="preserve">**+##%#++=======+==++. #%%%#.    -=---=-======+*##*+</text>
+<text x="22" y="382.2" xml:space="preserve">***##%#++++++====+=++- %@%%#.   -=========++++**##*+</text>
+<text x="22" y="392.4" xml:space="preserve">***#%%%***+++++==++=+=-@@@@#   :+=======+++++***#%*+</text>
+<text x="22" y="402.6" xml:space="preserve">****%@%##***+++++=+++++@@@@#  .=++*+++++++++***#%#*+</text>
+<text x="22" y="412.8" xml:space="preserve">****%@%%%#****+++==*++=*@@@# .++***++++++******%@#*+</text>
+<text x="22" y="423.0" xml:space="preserve">***#%@@%%####***++==+*+=%@@* =+**+==+++*******#%@#**</text>
+<text x="22" y="433.2" xml:space="preserve">***#%@@%%#######*+++=+*++@@*-*#*===+*****##**#%%@%**</text>
+<text x="22" y="443.4" xml:space="preserve">**#%%@@@%%%#######*++=+*+#@+*#+=++*****#######%@@@#*</text>
+<text x="22" y="453.6" xml:space="preserve">*##%@@@%%%%%#########*++*****++*##****##########@@#*</text>
+<text x="22" y="463.8" xml:space="preserve">###%@@%@%%%%##******####*###*###*****#####%%%%%##%%*</text>
+<text x="22" y="474.0" xml:space="preserve">###%@**@%%####**********#***++++*****######%%@@%-@%*</text>
+<text x="22" y="484.2" xml:space="preserve">***%@+#@%######*******+**+++++++++*****#####%%%@-%%*</text>
+<text x="22" y="494.4" xml:space="preserve">**#%%+%%#######********#*++++++********#######%%-*@*</text>
+<text x="22" y="504.6" xml:space="preserve">*#%@#+%#########*******#**************##########--%#</text>
+<text x="22" y="514.8" xml:space="preserve">##%@#*@%##########*****#*************##########@#-@%</text>
+</g>
+<line x1="304" y1="56" x2="304" y2="495" stroke="#1c8f3d" stroke-width="1" stroke-dasharray="2,3"/>
+<g font-family="Consolas, Menlo, monospace" font-size="13.5" filter="url(#crtGlow)">
+<text x="328" y="78" fill="#1c8f3d">subject</text>
+<text x="478" y="78" fill="#39ff6a">rossiniroberto52</text>
+<text x="328" y="100" fill="#1c8f3d">role</text>
+<text x="478" y="100" fill="#39ff6a">backend &amp; automacao</text>
+<text x="328" y="122" fill="#1c8f3d">education</text>
+<text x="478" y="122" fill="#39ff6a">ciencia da computacao - unicap</text>
+<text x="328" y="144" fill="#1c8f3d">status</text>
+<text x="478" y="144" fill="#39ff6a">cursando 2025-2028 // gerente @ ej unicap</text>
+<text x="328" y="166" fill="#1c8f3d">core_lang</text>
+<text x="478" y="166" fill="#39ff6a">java . python . c#</text>
+<text x="328" y="188" fill="#1c8f3d">core_backend</text>
+<text x="478" y="188" fill="#39ff6a">spring . fastapi</text>
+<text x="328" y="210" fill="#1c8f3d">core_infra</text>
+<text x="478" y="210" fill="#39ff6a">docker . aws . linux</text>
+<text x="328" y="232" fill="#1c8f3d">ai_tools</text>
+<text x="478" y="232" fill="#39ff6a">claude code . opencode . ollama</text>
+<text x="328" y="254" fill="#1c8f3d">fuel</text>
+<text x="478" y="254" fill="#39ff6a">cafe (sem limite) . creed</text>
+</g>
+<rect x="328" y="265" width="8" height="14" fill="#39ff6a">
+<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<line x1="328" y1="288" x2="786" y2="288" stroke="#1c8f3d" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="328" y="310" font-family="Consolas, Menlo, monospace" font-size="10.5" fill="#1c8f3d">[ now playing ]</text>
+<text x="328" y="328" font-family="Consolas, Menlo, monospace" font-size="13.5" fill="#39ff6a" filter="url(#crtGlow)">instant crush - daft punk</text>
+<clipPath id="npClip"><rect x="328" y="326" width="458" height="20"/></clipPath>
+<g clip-path="url(#npClip)" filter="url(#crtGlow)">
+<text x="328" y="344" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1" fill="#e8b64a" xml:space="preserve">█▂▇▂▃██▇▂▆▄▃▃▇█▅▆▃▃▂█▅▃▂▇▃▄▅▁▆▇█▅▄▆▅▃▆▁▂▇▂▁▁▄▄▆▁▃█▆█▆▂▄▇▄▅▅█▁▅▂█▅▅▇▇▂▂▄▅▆▃▄▇▅▁▂▆▃▂▇▂▂▅▇▂▁▂▅▁▄▄▁█▇▄▇▇▂▆▅▄▃▅▅▆▂▅▆▁▇▃█▂▇▂▃██▇▂▆▄▃▃▇█▅▆▃▃▂█▅▃▂▇▃▄▅▁▆▇█▅▄▆▅▃▆▁▂▇▂▁▁▄▄▆▁▃█▆█▆▂▄▇▄▅▅█▁▅▂█▅▅▇▇▂▂▄▅▆▃▄▇▅▁▂▆▃▂▇▂▂▅▇▂▁▂▅▁▄▄▁█▇▄▇▇▂▆▅▄▃▅▅▆▂▅▆▁▇▃
+<animate attributeName="x" values="328;-652" dur="6s" repeatCount="indefinite"/>
+</text>
+</g>
+</svg>
