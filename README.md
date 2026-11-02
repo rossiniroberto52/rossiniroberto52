@@ -14,8 +14,8 @@
 
 ### Backend & Automação
 
-Curso **Ciência da Computação na UNICAP** (2025-2028) e atuo como Gerente na EJ Unicap,
-liderando a área de computação e ajudando a transformar ideias em sistemas que funcionam de verdade.
+Curso **Ciência da Computação na UNICAP** (2025-2028). Fui Gerente de Computação na EJ Unicap,
+onde liderei a área e ajudei a transformar ideias em sistemas que funcionam de verdade.
 
 O interesse por código começou aos 8 anos, quando música e computador se cruzaram pela primeira vez.
 Hoje, meu trabalho mora nos bastidores: APIs em Java, automações e arquiteturas desenhadas
@@ -91,5 +91,3 @@ desde prototipagem até automação de tarefas repetitivas.
 </p>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rossiniroberto52.rossiniroberto52" />
-
-</div>
