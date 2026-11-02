@@ -19,58 +19,26 @@
 <circle cx="58" cy="19.0" r="5" fill="#28c840"/>
 <text x="404" y="23" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#1c8f3d">root@rossiniroberto52 ~ whoami</text>
 <g font-family="Consolas, Menlo, monospace" font-size="8.6" fill="#39ff6a" filter="url(#crtGlow)">
-<text x="22" y="66.0" xml:space="preserve">.................                          .........</text>
-<text x="22" y="76.2" xml:space="preserve">..........                                        ..</text>
-<text x="22" y="86.4" xml:space="preserve">......                                              </text>
-<text x="22" y="96.6" xml:space="preserve">..                                                  </text>
-<text x="22" y="106.8" xml:space="preserve">                                                    </text>
-<text x="22" y="117.0" xml:space="preserve">                                                    </text>
-<text x="22" y="127.2" xml:space="preserve">                      .-+*#**+=-.                   </text>
-<text x="22" y="137.4" xml:space="preserve">                   .+*%@@@@@@@@@#*-                 </text>
-<text x="22" y="147.6" xml:space="preserve">                  -%@@@@@@@@@@@@@@@+                </text>
-<text x="22" y="157.8" xml:space="preserve">                 .%@@@#+*%#=:::-+@@@=               </text>
-<text x="22" y="168.0" xml:space="preserve">                 +@@*=...:.    ..-%@*               </text>
-<text x="22" y="178.2" xml:space="preserve">                 *@*:....    .....*@-               </text>
-<text x="22" y="188.4" xml:space="preserve">                 -@+=+**#+::+#*++=:@-               </text>
-<text x="22" y="198.6" xml:space="preserve">                 =%-#%##*+. =+**+=.*=               </text>
-<text x="22" y="208.8" xml:space="preserve">                 =*::::..--::......=:               </text>
-<text x="22" y="219.0" xml:space="preserve">                 =#=-:..-**+=:...::-.               </text>
-<text x="22" y="229.2" xml:space="preserve">                 .-++-:-==-----:.:-.                </text>
-<text x="22" y="239.4" xml:space="preserve">                   :+=::----:...:-:                 </text>
-<text x="22" y="249.6" xml:space="preserve">                    =*+=-::..::--+:                 </text>
-<text x="22" y="259.8" xml:space="preserve">                   --+***++++++++: :.               </text>
-<text x="22" y="270.0" xml:space="preserve">                .:+#::-=+***+++-   .=:.             </text>
-<text x="22" y="280.2" xml:space="preserve">           .::-===+*-.:.:*@%@*.    .=+==-:..        </text>
-<text x="22" y="290.4" xml:space="preserve">     ..:-=====++====:  .-#@%*::.   -=-======--:..   </text>
-<text x="22" y="300.6" xml:space="preserve"> .--=+++++=====++=+-   . +@%.   .  -=--==-=======--:</text>
-<text x="22" y="310.8" xml:space="preserve">.++++========+====+-    .%#@+      =--------==----==</text>
-<text x="22" y="321.0" xml:space="preserve">+++===+=======+===+=    =##%#     .=---------==-----</text>
-<text x="22" y="331.2" xml:space="preserve">*=+++++=======+===+=    *##%+     :=------------====</text>
-<text x="22" y="341.4" xml:space="preserve">*++++++===========+=.   ##*%=     :-------------====</text>
-<text x="22" y="351.6" xml:space="preserve">++++++++===========+.  :%#*%-     -------------=====</text>
-<text x="22" y="361.8" xml:space="preserve">*++**#*+===========+-  =%###:    .-----------==+**++</text>
-<text x="22" y="372.0" xml:space="preserve">**+##%#++=======+==++. #%%%#.    -=---=-======+*##*+</text>
-<text x="22" y="382.2" xml:space="preserve">***##%#++++++====+=++- %@%%#.   -=========++++**##*+</text>
-<text x="22" y="392.4" xml:space="preserve">***#%%%***+++++==++=+=-@@@@#   :+=======+++++***#%*+</text>
-<text x="22" y="402.6" xml:space="preserve">****%@%##***+++++=+++++@@@@#  .=++*+++++++++***#%#*+</text>
-<text x="22" y="412.8" xml:space="preserve">****%@%%%#****+++==*++=*@@@# .++***++++++******%@#*+</text>
-<text x="22" y="423.0" xml:space="preserve">***#%@@%%####***++==+*+=%@@* =+**+==+++*******#%@#**</text>
-<text x="22" y="433.2" xml:space="preserve">***#%@@%%#######*+++=+*++@@*-*#*===+*****##**#%%@%**</text>
-<text x="22" y="443.4" xml:space="preserve">**#%%@@@%%%#######*++=+*+#@+*#+=++*****#######%@@@#*</text>
-<text x="22" y="453.6" xml:space="preserve">*##%@@@%%%%%#########*++*****++*##****##########@@#*</text>
-<text x="22" y="463.8" xml:space="preserve">###%@@%@%%%%##******####*###*###*****#####%%%%%##%%*</text>
-<text x="22" y="474.0" xml:space="preserve">###%@**@%%####**********#***++++*****######%%@@%-@%*</text>
-<text x="22" y="484.2" xml:space="preserve">***%@+#@%######*******+**+++++++++*****#####%%%@-%%*</text>
-<text x="22" y="494.4" xml:space="preserve">**#%%+%%#######********#*++++++********#######%%-*@*</text>
-<text x="22" y="504.6" xml:space="preserve">*#%@#+%#########*******#**************##########--%#</text>
-<text x="22" y="514.8" xml:space="preserve">##%@#*@%##########*****#*************##########@#-@%</text>
+<text x="22" y="66.0" xml:space="preserve"> _________________________ </text>
+<text x="22" y="76.2" xml:space="preserve">( emerge --sync &&        )</text>
+<text x="22" y="86.4" xml:space="preserve">( emerge -uDN @world       )</text>
+<text x="22" y="96.6" xml:space="preserve">( # gentoo for life        )</text>
+<text x="22" y="106.8" xml:space="preserve"> -------------------------  </text>
+<text x="22" y="117.0" xml:space="preserve">        \   ^__^           </text>
+<text x="22" y="127.2" xml:space="preserve">         \  (oo)\_______   </text>
+<text x="22" y="137.4" xml:space="preserve">            (__)\       )\/\</text>
+<text x="22" y="147.6" xml:space="preserve">                ||----w |  </text>
+<text x="22" y="157.8" xml:space="preserve">                ||     ||  </text>
+<text x="22" y="168.0" xml:space="preserve">       USE="-systemd"      </text>
+<text x="22" y="178.2" xml:space="preserve">       CFLAGS="-O2 -pipe"  </text>
+<text x="22" y="188.4" xml:space="preserve">       ~ gentoo ~          </text>
 </g>
 <line x1="304" y1="56" x2="304" y2="495" stroke="#1c8f3d" stroke-width="1" stroke-dasharray="2,3"/>
 <g font-family="Consolas, Menlo, monospace" font-size="13.5" filter="url(#crtGlow)">
 <text x="328" y="78" fill="#1c8f3d">subject</text>
 <text x="478" y="78" fill="#39ff6a">rossiniroberto52</text>
 <text x="328" y="100" fill="#1c8f3d">role</text>
-<text x="478" y="100" fill="#39ff6a">backend &amp; automacao</text>
+<text x="478" y="100" fill="#39ff6a">backend & automacao</text>
 <text x="328" y="122" fill="#1c8f3d">education</text>
 <text x="478" y="122" fill="#39ff6a">ciencia da computacao - unicap</text>
 <text x="328" y="144" fill="#1c8f3d">status</text>
