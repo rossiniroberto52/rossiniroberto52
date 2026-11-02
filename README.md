@@ -14,14 +14,14 @@
 
 ### Backend & Automação
 
-Curso **Ciência da Computação na UNICAP** (2025-2028). Fui Gerente de Computação na EJ Unicap,
-onde liderei a área e ajudei a transformar ideias em sistemas que funcionam de verdade.
+Curso **Ciência da Computação na UNICAP** (2025-2028) e gosto de transformar ideias
+em sistemas que funcionam de verdade.
 
 O interesse por código começou aos 8 anos, quando música e computador se cruzaram pela primeira vez.
 Hoje, meu trabalho mora nos bastidores: APIs em Java, automações e arquiteturas desenhadas
 para rodar com estabilidade e o mínimo de atrito.
 
-🤖 Uso ferramentas de IA e agentes (Claude Code, OpenCode, Hermes e afins) no dia a dia de desenvolvimento —
+🤖 Uso ferramentas de IA e agentes (Claude Code, Hermes e afins) no dia a dia de desenvolvimento —
 desde prototipagem até automação de tarefas repetitivas.
 
 <br>
@@ -61,7 +61,6 @@ desde prototipagem até automação de tarefas repetitivas.
 **AI Tools & Agents**
 <p>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/OpenCode-000000?logo=terminal&logoColor=white&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/Hermes_Agent-6E56CF?logo=probot&logoColor=white&style=for-the-badge" height="28" />
 </p>
