@@ -21,7 +21,7 @@ O interesse por código começou aos 8 anos, quando música e computador se cruz
 Hoje, meu trabalho mora nos bastidores: APIs em Java, automações e arquiteturas desenhadas
 para rodar com estabilidade e o mínimo de atrito.
 
-🤖 Uso ferramentas de IA e agentes (Claude Code, OpenCode e afins) no dia a dia de desenvolvimento —
+🤖 Uso ferramentas de IA e agentes (Claude Code, OpenCode, Hermes e afins) no dia a dia de desenvolvimento —
 desde prototipagem até automação de tarefas repetitivas.
 
 <br>
@@ -37,12 +37,13 @@ desde prototipagem até automação de tarefas repetitivas.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" />
 </p>
 
-**Game Dev**
+**Game Dev & Sistemas**
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" />
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="32" />
 <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="32" />
+<img src="https://skillicons.dev/icons?i=rust" width="32" />
 </p>
 
 **Infra & Ferramentas**
@@ -62,6 +63,7 @@ desde prototipagem até automação de tarefas repetitivas.
 <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/OpenCode-000000?logo=terminal&logoColor=white&style=for-the-badge" height="28" />
 <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white&style=for-the-badge" height="28" />
+<img src="https://img.shields.io/badge/Hermes_Agent-6E56CF?logo=probot&logoColor=white&style=for-the-badge" height="28" />
 </p>
 
 <br>
