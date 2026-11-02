@@ -69,15 +69,8 @@ desde prototipagem até automação de tarefas repetitivas.
 ### 📊 Stats
 
 <p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rossiniroberto52&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rossiniroberto52&layout=compact&theme=dracula&hide_border=false" height="165" />
-</p>
-
-<p>
 <img src="https://streak-stats.demolab.com?user=rossiniroberto52&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="165" />
 </p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rossiniroberto52&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" />
 
 <br>
 
